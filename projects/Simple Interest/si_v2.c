@@ -1,4 +1,4 @@
-/* Project 1, 13/1/2022, Legend108 */
+/* Project 2, 13/1/2022, Legend108 */
 /* Simple interest */
 
 /* To be able to use printf() */
